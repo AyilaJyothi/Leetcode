@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyilaJyothi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyilaJyothi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyilaJyothi/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AyilaJyothi/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -64,4 +66,9 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
+## Two Pointers
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
