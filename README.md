@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyilaJyothi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyilaJyothi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -51,11 +52,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
@@ -67,6 +70,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Matrix
@@ -99,4 +103,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
