@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AyilaJyothi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/AyilaJyothi/Leetcode/tree/master/0035-search-insert-position) |
@@ -87,12 +88,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyilaJyothi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyilaJyothi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyilaJyothi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
