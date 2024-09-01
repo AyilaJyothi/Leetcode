@@ -19,6 +19,7 @@
 | [0228-summary-ranges](https://github.com/AyilaJyothi/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
