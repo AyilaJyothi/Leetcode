@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AyilaJyothi/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
