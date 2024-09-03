@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AyilaJyothi/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
