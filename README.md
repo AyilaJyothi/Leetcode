@@ -38,6 +38,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AyilaJyothi/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -57,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
