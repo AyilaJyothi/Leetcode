@@ -28,6 +28,7 @@
 | [1580-shuffle-the-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyilaJyothi/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AyilaJyothi/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -69,6 +70,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyilaJyothi/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyilaJyothi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AyilaJyothi/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -83,6 +85,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
@@ -91,6 +94,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +151,7 @@
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/AyilaJyothi/Leetcode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
