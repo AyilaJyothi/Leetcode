@@ -24,6 +24,7 @@
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyilaJyothi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Matrix
@@ -126,6 +128,7 @@
 | [0011-container-with-most-water](https://github.com/AyilaJyothi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
