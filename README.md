@@ -25,6 +25,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyilaJyothi/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -90,6 +91,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -119,6 +121,7 @@
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Matrix
@@ -196,4 +199,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AyilaJyothi/Leetcode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
