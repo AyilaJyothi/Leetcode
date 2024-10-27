@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AyilaJyothi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
