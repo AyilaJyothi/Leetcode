@@ -39,6 +39,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyilaJyothi/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/AyilaJyothi/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/AyilaJyothi/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
