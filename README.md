@@ -47,6 +47,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AyilaJyothi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -125,6 +126,7 @@
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyilaJyothi/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
