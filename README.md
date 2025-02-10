@@ -45,6 +45,7 @@
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AyilaJyothi/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AyilaJyothi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -151,6 +152,7 @@
 | [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
