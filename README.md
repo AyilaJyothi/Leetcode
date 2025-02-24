@@ -75,6 +75,7 @@
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AyilaJyothi/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyilaJyothi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -287,4 +289,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AyilaJyothi/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/AyilaJyothi/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AyilaJyothi/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
