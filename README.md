@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -80,6 +81,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
