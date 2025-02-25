@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AyilaJyothi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -181,6 +182,7 @@
 | [0015-3sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AyilaJyothi/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AyilaJyothi/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyilaJyothi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -275,6 +277,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AyilaJyothi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
