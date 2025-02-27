@@ -82,6 +82,7 @@
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AyilaJyothi/Leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
