@@ -64,6 +64,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -87,6 +88,7 @@
 | [0263-ugly-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AyilaJyothi/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -102,6 +104,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyilaJyothi/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
