@@ -54,6 +54,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3194-find-words-containing-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -181,6 +182,7 @@
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
