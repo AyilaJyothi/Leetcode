@@ -52,6 +52,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AyilaJyothi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2551-apply-operations-to-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -70,6 +71,7 @@
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyilaJyothi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AyilaJyothi/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/3447-clear-digits) |
 ## Math
 |  |
@@ -207,6 +209,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AyilaJyothi/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2551-apply-operations-to-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
