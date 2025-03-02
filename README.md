@@ -67,6 +67,7 @@
 | [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AyilaJyothi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyilaJyothi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -114,6 +115,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/AyilaJyothi/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyilaJyothi/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AyilaJyothi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyilaJyothi/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AyilaJyothi/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyilaJyothi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AyilaJyothi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
