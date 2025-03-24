@@ -64,6 +64,7 @@
 | [3221-find-the-peaks](https://github.com/AyilaJyothi/Leetcode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3430-count-days-without-meetings](https://github.com/AyilaJyothi/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -197,6 +198,7 @@
 | [1561-rearrange-words-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3430-count-days-without-meetings](https://github.com/AyilaJyothi/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Matrix
 |  |
 | ------- |
