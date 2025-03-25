@@ -60,6 +60,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/AyilaJyothi/Leetcode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -158,6 +159,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyilaJyothi/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2634-minimum-common-value](https://github.com/AyilaJyothi/Leetcode/tree/master/2634-minimum-common-value) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -267,6 +269,7 @@
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/AyilaJyothi/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
