@@ -29,6 +29,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AyilaJyothi/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
@@ -104,6 +105,7 @@
 | [0292-nim-game](https://github.com/AyilaJyothi/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
@@ -201,6 +203,7 @@
 | [0242-valid-anagram](https://github.com/AyilaJyothi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
