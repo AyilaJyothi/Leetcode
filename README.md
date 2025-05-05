@@ -99,6 +99,7 @@
 | [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/AyilaJyothi/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0263-ugly-number) |
@@ -393,5 +394,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/AyilaJyothi/Leetcode/tree/master/0223-rectangle-area) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
