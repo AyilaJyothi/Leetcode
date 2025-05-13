@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyilaJyothi/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AyilaJyothi/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AyilaJyothi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyilaJyothi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@
 | [0029-divide-two-integers](https://github.com/AyilaJyothi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AyilaJyothi/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AyilaJyothi/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AyilaJyothi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
