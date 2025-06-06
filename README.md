@@ -113,6 +113,7 @@
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
