@@ -90,6 +90,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyilaJyothi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0476-number-complement](https://github.com/AyilaJyothi/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,6 +325,7 @@
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AyilaJyothi/Leetcode/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
