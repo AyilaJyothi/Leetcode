@@ -138,6 +138,7 @@
 | [0043-multiply-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AyilaJyothi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AyilaJyothi/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AyilaJyothi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AyilaJyothi/Leetcode/tree/master/0242-valid-anagram) |
@@ -260,6 +261,7 @@
 | [0075-sort-colors](https://github.com/AyilaJyothi/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AyilaJyothi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyilaJyothi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
