@@ -149,6 +149,7 @@
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0953-reverse-only-letters](https://github.com/AyilaJyothi/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -273,6 +274,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/AyilaJyothi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/AyilaJyothi/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/AyilaJyothi/Leetcode/tree/master/1894-merge-strings-alternately) |
