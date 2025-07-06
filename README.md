@@ -129,6 +129,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/AyilaJyothi/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2831-number-of-beautiful-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -168,6 +169,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyilaJyothi/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3447-clear-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
@@ -211,6 +213,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyilaJyothi/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/AyilaJyothi/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Dynamic Programming
 |  |
 | ------- |
