@@ -154,6 +154,7 @@
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyilaJyothi/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/AyilaJyothi/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -277,6 +278,7 @@
 | [0953-reverse-only-letters](https://github.com/AyilaJyothi/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/AyilaJyothi/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyilaJyothi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -384,6 +386,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AyilaJyothi/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
