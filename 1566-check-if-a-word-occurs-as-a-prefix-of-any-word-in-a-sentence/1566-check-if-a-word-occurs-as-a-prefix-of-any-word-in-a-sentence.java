@@ -10,7 +10,7 @@ class Solution {
             }
             else{
                 j++;
-                System.out.println(sb);
+                // System.out.println(sb);
                 if(sb.toString().startsWith(searchWord)){
                     return j;
                 }
