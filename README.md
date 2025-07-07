@@ -35,6 +35,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/AyilaJyothi/Leetcode/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@
 | [0067-add-binary](https://github.com/AyilaJyothi/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/AyilaJyothi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyilaJyothi/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AyilaJyothi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AyilaJyothi/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -247,6 +249,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/AyilaJyothi/Leetcode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AyilaJyothi/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyilaJyothi/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
