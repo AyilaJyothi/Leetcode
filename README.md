@@ -78,6 +78,7 @@
 | [3430-count-days-without-meetings](https://github.com/AyilaJyothi/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyilaJyothi/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyilaJyothi/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3644-minimum-positive-sum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 |  |
 | ------- |
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [3644-minimum-positive-sum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
