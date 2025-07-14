@@ -118,6 +118,7 @@
 | [0263-ugly-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AyilaJyothi/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/AyilaJyothi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyilaJyothi/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
@@ -354,6 +355,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/AyilaJyothi/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AyilaJyothi/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AyilaJyothi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyilaJyothi/Leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
