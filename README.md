@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AyilaJyothi/Leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/AyilaJyothi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyilaJyothi/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -408,6 +409,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AyilaJyothi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2358-number-of-ways-to-split-array](https://github.com/AyilaJyothi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AyilaJyothi/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Database
