@@ -157,6 +157,7 @@
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/AyilaJyothi/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
@@ -196,6 +197,7 @@
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyilaJyothi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
