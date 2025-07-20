@@ -37,7 +37,7 @@ class Solution {
             for (int i = 0; i < s.length(); i++) {
                 set1.add(s.charAt(i));
             }
-            System.out.println(set1.size());
+            // System.out.println(set1.size());
                 if (set1.size()==s.length()) {
                     return false;
                 }
