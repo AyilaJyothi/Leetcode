@@ -41,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/AyilaJyothi/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/AyilaJyothi/Leetcode/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
@@ -205,6 +206,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyilaJyothi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -380,6 +382,7 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AyilaJyothi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bucket Sort
@@ -425,6 +428,7 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -479,4 +483,5 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
