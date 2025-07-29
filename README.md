@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyilaJyothi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AyilaJyothi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/AyilaJyothi/Leetcode/tree/master/0164-maximum-gap) |
@@ -202,6 +203,7 @@
 | [0013-roman-to-integer](https://github.com/AyilaJyothi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AyilaJyothi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AyilaJyothi/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AyilaJyothi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
@@ -513,4 +515,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AyilaJyothi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
