@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AyilaJyothi/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyilaJyothi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyilaJyothi/Leetcode/tree/master/0283-move-zeroes) |
@@ -208,6 +209,7 @@
 | [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AyilaJyothi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -265,6 +268,7 @@
 | [0164-maximum-gap](https://github.com/AyilaJyothi/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AyilaJyothi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyilaJyothi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AyilaJyothi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
