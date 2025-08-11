@@ -144,6 +144,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
+| [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -225,6 +226,7 @@
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
+| [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
@@ -246,6 +248,7 @@
 | [0229-majority-element-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyilaJyothi/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -279,6 +282,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0948-sort-an-array) |
@@ -508,6 +512,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3221-find-the-peaks](https://github.com/AyilaJyothi/Leetcode/tree/master/3221-find-the-peaks) |
 ## Geometry
 |  |
