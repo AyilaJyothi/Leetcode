@@ -174,6 +174,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AyilaJyothi/Leetcode/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
@@ -223,6 +224,7 @@
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyilaJyothi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
@@ -335,6 +337,7 @@
 | [0283-move-zeroes](https://github.com/AyilaJyothi/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AyilaJyothi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -404,6 +407,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyilaJyothi/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
