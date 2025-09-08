@@ -148,6 +148,7 @@
 | [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyilaJyothi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AyilaJyothi/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AyilaJyothi/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
