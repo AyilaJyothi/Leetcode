@@ -462,6 +462,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AyilaJyothi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyilaJyothi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AyilaJyothi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AyilaJyothi/Leetcode/tree/master/3447-clear-digits) |
@@ -566,4 +567,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AyilaJyothi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AyilaJyothi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AyilaJyothi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AyilaJyothi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
