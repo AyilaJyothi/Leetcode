@@ -190,6 +190,7 @@
 | [0953-reverse-only-letters](https://github.com/AyilaJyothi/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AyilaJyothi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AyilaJyothi/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/AyilaJyothi/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -242,6 +243,7 @@
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AyilaJyothi/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/AyilaJyothi/Leetcode/tree/master/1635-number-of-good-pairs) |
