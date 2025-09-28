@@ -48,6 +48,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AyilaJyothi/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AyilaJyothi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -297,6 +298,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -325,6 +327,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyilaJyothi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -355,6 +358,7 @@
 | [0344-reverse-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AyilaJyothi/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -385,6 +389,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/AyilaJyothi/Leetcode/tree/master/0792-binary-search) |
