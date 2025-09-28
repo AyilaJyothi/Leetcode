@@ -59,6 +59,7 @@
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0948-sort-an-array) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/AyilaJyothi/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/AyilaJyothi/Leetcode/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -151,6 +152,7 @@
 | [0728-self-dividing-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
 | [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/AyilaJyothi/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/AyilaJyothi/Leetcode/tree/master/1115-valid-boomerang) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyilaJyothi/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -300,6 +302,7 @@
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/AyilaJyothi/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1217-relative-sort-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1217-relative-sort-array) |
@@ -326,6 +329,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AyilaJyothi/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/AyilaJyothi/Leetcode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/AyilaJyothi/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/AyilaJyothi/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/AyilaJyothi/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
