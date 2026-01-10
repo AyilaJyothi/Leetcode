@@ -52,6 +52,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/AyilaJyothi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/AyilaJyothi/Leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/AyilaJyothi/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
@@ -240,6 +241,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyilaJyothi/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyilaJyothi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyilaJyothi/Leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/AyilaJyothi/Leetcode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/0889-buddy-strings) |
@@ -302,6 +304,7 @@
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/AyilaJyothi/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/AyilaJyothi/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/AyilaJyothi/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -414,6 +417,7 @@
 | [0342-power-of-four](https://github.com/AyilaJyothi/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AyilaJyothi/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/AyilaJyothi/Leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/AyilaJyothi/Leetcode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyilaJyothi/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AyilaJyothi/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyilaJyothi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
