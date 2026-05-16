@@ -53,6 +53,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyilaJyothi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AyilaJyothi/Leetcode/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AyilaJyothi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AyilaJyothi/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/AyilaJyothi/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AyilaJyothi/Leetcode/tree/master/0817-design-hashmap) |
@@ -396,6 +397,7 @@
 | [0441-arranging-coins](https://github.com/AyilaJyothi/Leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyilaJyothi/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AyilaJyothi/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/AyilaJyothi/Leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/AyilaJyothi/Leetcode/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/AyilaJyothi/Leetcode/tree/master/0924-fair-candy-swap) |
