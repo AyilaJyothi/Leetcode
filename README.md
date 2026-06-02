@@ -535,6 +535,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/AyilaJyothi/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/AyilaJyothi/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AyilaJyothi/Leetcode/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/AyilaJyothi/Leetcode/tree/master/1280-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AyilaJyothi/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/AyilaJyothi/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AyilaJyothi/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
