@@ -532,6 +532,7 @@
 | [0595-big-countries](https://github.com/AyilaJyothi/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/AyilaJyothi/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/AyilaJyothi/Leetcode/tree/master/0627-swap-salary) |
+| [1045-customers-who-bought-all-products](https://github.com/AyilaJyothi/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/AyilaJyothi/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/AyilaJyothi/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AyilaJyothi/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
